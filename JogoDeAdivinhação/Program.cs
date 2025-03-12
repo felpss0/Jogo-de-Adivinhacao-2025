@@ -87,6 +87,7 @@
                         Console.WriteLine("--------------------");
                     }
 
+                    Console.ReadLine();
                    
 
                 }
